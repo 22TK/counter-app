@@ -1,1 +1,1 @@
-This is made entirly from HTML, CSS, JavaScript.
+This is made entirely from HTML, CSS, JavaScript.
